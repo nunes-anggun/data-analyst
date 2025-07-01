@@ -20,13 +20,13 @@
 
 ## 🚀 How to Run the Project
 
-1. Open `regression_model.ipynb` in Jupyter Notebook  
+1. Open `inflation-analysis.ipynb` in Jupyter Notebook  
 2. Run all cells  
-3. Make sure `lionfield_data.xlsx` is in the `data/` folder
+3. Make sure `world_bank_data_2025.csv` is in the `data/` folder
 
 ## 🧑‍💻 Contributor
 
-- Nunes Pribadi
+- Nunes Anggun Pribadi
 
 ## 📄 License
 
